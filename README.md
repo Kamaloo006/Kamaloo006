@@ -40,20 +40,7 @@
 ---
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Kamaloo006">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamaloo006&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamaloo006&theme=dark&hide_border=true&layout=compact&langs_count=8" />
-</a>
-
----
-
-## 🏆 Achievements
-
-<a href="https://github.com/Kamaloo006">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kamaloo006&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" />
-</a>
-
-> **Note**: If trophies still don't appear, your account might be too new or have limited public activity. Try adding `&rank=S` or `&no-frame=true` to debug.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamaloo006&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10)
 
 ---
 
