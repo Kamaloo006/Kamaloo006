@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Kamal Alkhatib 👋 
 
 ### 🚀 Full-Stack Developer | Laravel & React Enthusiast
 I specialize in building robust backend systems with **Laravel** and crafting polished, type-safe frontends using **React** and **TypeScript**. My goal is to build professional, comprehensive web applications that are clean, scalable, and user-centric.
